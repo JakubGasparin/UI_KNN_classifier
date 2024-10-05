@@ -1,0 +1,1 @@
+This project implements the k-Nearest Neighbors (k-NN) algorithm to classify randomly generated points in a 2D space based on their distance from pre-existing training points. It visualizes the classification results for different values of k using Matplotlib.
